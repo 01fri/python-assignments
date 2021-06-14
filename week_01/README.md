@@ -5,5 +5,5 @@
 - The poem is titled as "*All*"
 - With the first version of the poem, the format is simple and straightforward
 - After created both English and Chinese version of the poem
-- I started to explore how to put both version next to each other
-- 
+- I started to explore how to put both version together
+- For instance, putting them next to each other in a table

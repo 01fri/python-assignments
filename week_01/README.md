@@ -1,4 +1,5 @@
 # Poem Version .01
+
 ### Jun 14, 2021, Monday
 
 * 🎲 I chose to work with a poem by Bei Dao(北岛)

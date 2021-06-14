@@ -2,6 +2,8 @@
 
 ### Jun 14, 2021, Monday
 
+![Bei Dao](https://flet100.files.wordpress.com/2016/06/bei-dao-21.jpg?w=250)
+
 * 🎲 I chose to work with a poem by Bei Dao(北岛)
 * 📜 The poem is titled as "*All*"("一切")
 * 🀄️ Originally scripted in Chinese

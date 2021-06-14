@@ -1,7 +1,5 @@
 # Poem Version .01
 
-##### *Jun 14, 2021, Monday*
-
 ![Bei Dao](https://flet100.files.wordpress.com/2016/06/bei-dao-21.jpg?w=250)
 
 ### Introduction
@@ -19,3 +17,4 @@
 - even though they translated to be exact same words
 
 
+ *Jun 14, 2021, Monday*

@@ -1,4 +1,4 @@
-# PYTHON ASSIGNMENTS
+# Python Assignments
 
 - 🎙 Hi, I’m Lu
 - 🪐 This is for 2021 summer Python course

@@ -11,7 +11,7 @@
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
 
-##### THE FIRST EXPERIMENT
+##### The first experiment
 - This focuses on displaying both Chinese and English version of the poem
 - I imported tabulate to format a table
 

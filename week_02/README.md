@@ -2,7 +2,6 @@
 # POEM VERSION .02
 
 <br/>
-<br/>
 
 ### Overview
 

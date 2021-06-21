@@ -1,13 +1,13 @@
 
 # POEM VERSION .02
 
-### OVERVIEW
+### Overview
 
 * 🎲 I chose to work with a poem by Bei Dao(北岛)
 * 📜 The poem is titled as "*All*"("一切")
 * 🀄️ Originally scripted in Chinese, translated in English
 
-### PROCESS
+### Process
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
 

@@ -14,7 +14,7 @@
 <br/>
 
 ### Process
-- I experimented with three different versions
+- I experimented with three different variations
 - Each version is formated relating to the content of the poem
 
 <br/>

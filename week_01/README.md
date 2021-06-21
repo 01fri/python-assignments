@@ -1,8 +1,5 @@
 # POEM VERSION .01
 
-<br/>
-<br/>
-
 ![Bei Dao](https://flet100.files.wordpress.com/2016/06/bei-dao-21.jpg?w=250)
 
 <br/>

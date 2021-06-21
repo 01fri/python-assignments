@@ -7,7 +7,7 @@
 * 📜 The poem is titled as "*All*"("一切")
 * 🀄️ Originally scripted in Chinese, translated in English
 
-##### PROCESS
+### PROCESS
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
 

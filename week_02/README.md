@@ -7,22 +7,36 @@
 * 📜 The poem is titled as "*All*"("一切")
 * 🀄️ Originally scripted in Chinese, translated in English
 
+<br/>
+<br/>
+
 ### Process
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
+
+<br/>
+<br/>
 
 <img width="606" alt="Screen Shot 2021-06-20 at 21 13 17" src="https://user-images.githubusercontent.com/65922297/122695150-96b84a80-d20d-11eb-8f32-577d546c0f84.png">
 ##### THE FIRST EXPERIMENT
 - This focuses on displaying both Chinese and English version of the poem
 - I imported tabulate to format a table
 
+<br/>
+<br/>
+
 ##### THE SECOND EXPERIMENT
 - For instance, putting them next to each other in a table
 - It is always interesting to see how could a different language change the mood and atmosphere of a poem a little bit
 - even though they translated to be exact same words
 
+<br/>
+<br/>
+
 ##### THE THIRD EXPERIMENT
 - For instance, putting them next to each other in a table
 
+<br/>
+<br/>
 
 ###### *Jun 21, 2021, Monday*

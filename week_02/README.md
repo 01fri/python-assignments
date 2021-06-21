@@ -11,8 +11,8 @@
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
 
-##### THE FIRST EXPERIMENT
 <img width="606" alt="Screen Shot 2021-06-20 at 21 13 17" src="https://user-images.githubusercontent.com/65922297/122695150-96b84a80-d20d-11eb-8f32-577d546c0f84.png">
+##### THE FIRST EXPERIMENT
 - This focuses on displaying both Chinese and English version of the poem
 - I imported tabulate to format a table
 

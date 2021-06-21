@@ -10,12 +10,18 @@
 ### Process
 - I experimented with three different versions
 - Each version is formated relating to the content of the poem
+
 ##### The first experiment
-- After created both English and Chinese version of the poem
-- I started to explore how to put both versions together
+- This focuses on displaying both Chinese and English version of the poem
+- I imported tabulate to format a table
+
+##### The second experiment
 - For instance, putting them next to each other in a table
 - It is always interesting to see how could a different language change the mood and atmosphere of a poem a little bit
 - even though they translated to be exact same words
 
+##### The third experiment
+- For instance, putting them next to each other in a table
 
- ###### *Jun 21, 2021, Monday*
+
+###### *Jun 21, 2021, Monday*

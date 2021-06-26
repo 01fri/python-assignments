@@ -34,7 +34,7 @@
 
 ### Overview
 
-* 🧠
+* 🧠 I mainly tried to play around with different assets and formats on Matplotlib
 
 <br/>
 

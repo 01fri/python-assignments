@@ -26,6 +26,7 @@
 ### Overview
 
 * 📝 I chose to work with the poem "*If One Day*", by Kawa Nijiang
+* 🖌 The code is executed in a simple but readable format
 
 <br/>
 

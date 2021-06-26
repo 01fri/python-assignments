@@ -1,7 +1,6 @@
 
 # POEM VERSION .03
 
-<br/>
 
 ### Overview
 
@@ -23,7 +22,6 @@
 
 # CODE POEM
 
-<br/>
 
 ### Overview
 

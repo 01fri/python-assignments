@@ -35,6 +35,7 @@
 ### Overview
 
 * 🧠 I mainly tried to play around with different assets and formats on Matplotlib
+* 👁 Using colors and formula to create some interesting visuals
 
 <br/>
 

@@ -19,5 +19,12 @@
 - For instance, the first experienment(the table) is given with a slight different design; 
 - there is one more variation at the end, which comes with vertical single column script, like traditional Chinese script.
 
+# CODE POEM
+
+<br/>
+
+### Overview
+
+* 📝 I chose to work with the poem "*If One Day*", by Kawa Nijiang
 
 ###### *Jun 28, 2021, Monday*

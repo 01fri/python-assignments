@@ -11,7 +11,7 @@
 <br/>
 
 ### Process
-- I experimented with different formats, trying to relate to the content of the poem
+- I experimented with different formats, trying to relate the visual to the content of the poem
 - Connect the visual with the content
 - Compare to last week, I try to add more designs to each variation.
 - For instance, the first experienment(the table) is given with a slight different design; 

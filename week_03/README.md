@@ -11,10 +11,8 @@
 <br/>
 
 ### Process
-- I experimented with different formats
-- Trying to relate the visual to the content of the poem
-- Compare to last week, I try to add more designs to each variation.
-- There is one more variation added at the end, which is formated in a vertical single column, like traditional Chinese script.
+- I experimented with different formats, trying to relate the visual to the content of the poem
+- Compare to last week, there is one more variation added at the end, which is formated in a vertical single column, like traditional Chinese script.
 
 <br/>
 <br/>

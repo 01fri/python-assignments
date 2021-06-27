@@ -14,8 +14,7 @@
 - I experimented with different formats
 - Trying to relate the visual to the content of the poem
 - Compare to last week, I try to add more designs to each variation.
-- For instance, the first experienment(the table) is given with a slight different design; 
-- there is one more variation at the end, which comes with vertical single column script, like traditional Chinese script.
+- There is one more variation added at the end, which is formated in a vertical single column, like traditional Chinese script.
 
 <br/>
 <br/>

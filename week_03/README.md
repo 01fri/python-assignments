@@ -42,7 +42,7 @@
 ### Overview
 
 * 🪐 I plan to create a "fake map", which only showing distorted or highly pixelated images of destinations
-* 👁 The project aims to excourage people to actually go out and experience the physical world, rather than travelling virtually, or let the map limit exploration in the real world
+* 🌋 The project aims to excourage people to actually go out and experience the physical world, rather than travelling virtually, or let the map limit exploration in the real world
 
 <br/>
 

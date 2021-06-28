@@ -8,7 +8,6 @@
 * 📜 The poem is titled as "*All*"("一切")
 * 🀄️ Originally scripted in Chinese, translated in English
 
-<br/>
 
 ### Process
 - I experimented with different formats, trying to relate the visual to the content of the poem

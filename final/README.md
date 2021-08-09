@@ -12,6 +12,9 @@
 
 </br>
 </br>
+project 01 deck: https://www.figma.com/proto/3tZTfn786oENvLemczToAk/Python-.-Final?page-id=0%3A1&node-id=1%3A2&viewport=-2643%2C-604%2C0.21214210987091064&scaling=contain&starting-point-node-id=1%3A2
+</br>
+</br>
 
 ![World map mockup](https://user-images.githubusercontent.com/65922297/128783661-5b310b43-8ab1-402c-8490-ba2a5d965011.jpg)
 
@@ -26,6 +29,9 @@
 
 # project 02 . RE-IMAGINING MODERN LIFE THROUGH THE TRADITIONAL LENS
 
+</br>
+</br>
+project 02 deck: https://www.figma.com/proto/3tZTfn786oENvLemczToAk/Python-.-Final?page-id=223%3A2&node-id=223%3A53&viewport=1266%2C997%2C0.3525369167327881&scaling=contain&starting-point-node-id=223%3A53
 </br>
 </br>
 

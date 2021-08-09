@@ -1,14 +1,26 @@
 
 ##### FINAL PROJECT
-# Re-imagining modern life through the traditional lens
+
+- I wanted to explore and experiment with styleGAN a little more for the final
+- So I went on and use StyleGAN to train two sets of datas.
+
+# project 01 . THE PLACE THAT DOESN’T EXIST
+
+</br>
+</br>
+
+![World map mockup](https://user-images.githubusercontent.com/65922297/128783661-5b310b43-8ab1-402c-8490-ba2a5d965011.jpg)
+
+- A website that shows the gap between the virtual depiction and real experience of a physical place; preserves the mystery of physical world; and encourages people to actually explore in the real world.
+- Machine learning is used to produce "generated reality"
+
+
+# project 02 . RE-IMAGINING MODERN LIFE THROUGH THE TRADITIONAL LENS
 
 </br>
 </br>
 
 <img width="1920" alt="Screen Shot 2021-08-09 at 10 28 22" src="https://user-images.githubusercontent.com/65922297/128748977-26acd45e-e07c-443f-892f-59233aba57d9.png">
-
-- I wanted to explore and experiment with styleGAN a little more for the final
-- So I went on and used styleGAN to generate porcelains
 
 </br>
 </br>

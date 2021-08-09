@@ -14,7 +14,6 @@
 
 project 01 deck: https://www.figma.com/proto/3tZTfn786oENvLemczToAk/Python-.-Final?page-id=0%3A1&node-id=1%3A2&viewport=-2643%2C-604%2C0.21214210987091064&scaling=contain&starting-point-node-id=1%3A2
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3tZTfn786oENvLemczToAk%2FPython-.-Final%3Fpage-id%3D0%253A1%26node-id%3D1%253A2%26viewport%3D-2643%252C-604%252C0.21214210987091064%26scaling%3Dcontain%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
 </br>
 </br>
 </br>

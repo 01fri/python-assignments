@@ -15,6 +15,12 @@
 - Machine learning is used to produce "generated reality"
 
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # project 02 . RE-IMAGINING MODERN LIFE THROUGH THE TRADITIONAL LENS
 
 </br>
@@ -31,6 +37,7 @@
 - Recreating the classics using a contemporary technique(machine learning)
 - The generated porcelains will become key elements to create further products/architecture/furnitures/etc
 
+</br>
 </br>
 </br>
 

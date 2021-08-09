@@ -1,6 +1,9 @@
 
 ##### FINAL PROJECT
-# Re-imageining modern life through the traditional lens
+# Re-imagining modern life through the traditional lens
+
+</br>
+</br>
 
 <img width="1920" alt="Screen Shot 2021-08-09 at 10 28 22" src="https://user-images.githubusercontent.com/65922297/128748977-26acd45e-e07c-443f-892f-59233aba57d9.png">
 
